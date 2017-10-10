@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e53463da-b658-4357-aa5f-4cfb54cb419c" name="clioui" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
-        <fileTransfer host="vitaliy.cliotest02.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/clioui" accessType="SFTP" keyPair="true" username="vitaliy" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc">
+        <fileTransfer host="vitaliy.develop.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/clioui" accessType="SFTP" keyPair="true" username="vitaliy" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
