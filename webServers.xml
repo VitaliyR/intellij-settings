@@ -1,0 +1,55 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e53463da-b658-4357-aa5f-4cfb54cb419c" name="clioui" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
+        <fileTransfer host="vitaliy.cliotest02.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/clioui" accessType="SFTP" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc" username="vitaliy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fa89f53f-c7a5-49aa-b479-4e3874a5b625" name="typo3conf-ext" url="http://vitaliy.cliotest02.clioonline.dk/portals">
+        <fileTransfer host="vitaliy.cliotest02.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/portals/typo3conf/ext" accessType="SFTP" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc" username="vitaliy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ddfec144-d7ce-42fb-b66f-e2cd80cee2ff" name="unitplan" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
+        <fileTransfer host="vitaliy.cliotest02.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/flow/Packages/Application/ClioOnline.UnitPlan" accessType="SFTP" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc" username="vitaliy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5067dc2e-d553-4cfd-a02e-4bd0d3ba63d6" name="quiz" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
+        <fileTransfer host="vitaliy.cliotest02.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/flow/Packages/Application/ClioOnline.Quiz" accessType="SFTP" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc" username="vitaliy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6f731c55-0776-4cf4-9a70-086c970fbd2d" name="quizstandalone" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
+        <fileTransfer host="vitaliy.cliotest02.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/flow/Packages/Application/ClioOnline.QuizStandAlone" accessType="SFTP" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc" username="vitaliy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3f8ad708-af86-453e-8ac8-b978516b4c19" name="landingpages" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
+        <fileTransfer host="vitaliy.cliotest02.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/flow/Packages/Application/ClioOnline.Landingpages" accessType="SFTP" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc" username="vitaliy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b965a1b9-37db-4741-9434-10d02b46dd76" name="myclio" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
+        <fileTransfer host="vitaliy.cliotest02.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/flow/Packages/Application/ClioOnline.MyClio" accessType="SFTP" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc" username="vitaliy" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

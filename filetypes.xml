@@ -1,0 +1,46 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <removed_mapping ext="jsp" type="JSP" />
+      <removed_mapping ext="tag" type="JSP" />
+      <removed_mapping ext="jspf" type="JSP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="java" type="textmate" />
+      <mapping pattern="SConscript" type="textmate" />
+      <mapping pattern="jspf" type="textmate" />
+      <mapping pattern="jsp" type="textmate" />
+      <mapping pattern="bsh" type="textmate" />
+      <mapping pattern="tag" type="textmate" />
+      <mapping pattern="gyp" type="textmate" />
+      <mapping pattern="re" type="textmate" />
+      <mapping pattern="gypi" type="textmate" />
+      <mapping pattern="rpy" type="textmate" />
+      <mapping pattern="sconstruct" type="textmate" />
+      <mapping pattern="py" type="textmate" />
+      <mapping pattern="properties" type="textmate" />
+      <mapping pattern="cpy" type="textmate" />
+      <mapping pattern="SConstruct" type="textmate" />
+      <mapping pattern="Sconstruct" type="textmate" />
+      <mapping pattern="pyw" type="textmate" />
+      <mapping ext="rpy" type="textmate" />
+      <mapping ext="sconscript" type="textmate" />
+      <mapping ext="pyw" type="textmate" />
+      <mapping ext="java" type="textmate" />
+      <mapping ext="sconstruct" type="textmate" />
+      <mapping ext="tag" type="textmate" />
+      <mapping ext="bsh" type="textmate" />
+      <mapping ext="cpy" type="textmate" />
+      <mapping ext="re" type="textmate" />
+      <mapping ext="py" type="textmate" />
+      <mapping ext="jsp" type="textmate" />
+      <mapping ext="gypi" type="textmate" />
+      <mapping ext="jspf" type="textmate" />
+      <mapping ext="properties" type="textmate" />
+      <mapping ext="gyp" type="textmate" />
+      <mapping ext="emblem" type="Slim" />
+    </extensionMap>
+  </component>
+</application>

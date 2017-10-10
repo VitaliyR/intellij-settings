@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Push to AEM" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="python3" />
+      <option name="PARAMETERS" value="$USER_HOME$/Work/tests/vlt/saver.py -f $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
