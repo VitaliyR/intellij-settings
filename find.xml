@@ -19,6 +19,8 @@
       <mask>*.html,*.hbs</mask>
       <mask>*.json</mask>
       <mask>*.php</mask>
+      <mask>*.hb</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
