@@ -6,26 +6,27 @@
       <removed_mapping ext="jsp" type="JSP" />
       <removed_mapping ext="tag" type="JSP" />
       <removed_mapping ext="jspf" type="JSP" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="sconstruct" type="textmate" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="java" type="textmate" />
       <mapping pattern="SConscript" type="textmate" />
       <mapping pattern="jspf" type="textmate" />
       <mapping pattern="jsp" type="textmate" />
       <mapping pattern="bsh" type="textmate" />
       <mapping pattern="tag" type="textmate" />
+      <mapping pattern="gyp" type="textmate" />
       <mapping pattern="re" type="textmate" />
       <mapping pattern="gypi" type="textmate" />
       <mapping pattern="rpy" type="textmate" />
+      <mapping pattern="sconstruct" type="textmate" />
       <mapping pattern="py" type="textmate" />
       <mapping pattern="properties" type="textmate" />
       <mapping pattern="cpy" type="textmate" />
       <mapping pattern="SConstruct" type="textmate" />
-      <mapping pattern="gyp" type="textmate" />
       <mapping pattern="Sconstruct" type="textmate" />
       <mapping pattern="pyw" type="textmate" />
       <mapping ext="rpy" type="textmate" />
+      <mapping ext="sconscript" type="textmate" />
       <mapping ext="pyw" type="textmate" />
       <mapping ext="java" type="textmate" />
       <mapping ext="sconstruct" type="textmate" />
