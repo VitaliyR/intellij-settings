@@ -15,12 +15,13 @@
       <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>*.hbs,*.html</mask>
-      <mask>*.html</mask>
       <mask>*.html,*.hbs</mask>
       <mask>*.json</mask>
       <mask>*.php</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
