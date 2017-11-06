@@ -3,6 +3,7 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -17,11 +18,11 @@
       <mask>*.hbs,*.html</mask>
       <mask>*.html,*.hbs</mask>
       <mask>*.json</mask>
-      <mask>*.php</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
