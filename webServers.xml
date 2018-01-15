@@ -57,12 +57,12 @@
           <option name="port" value="2200" />
         </fileTransfer>
       </webServer>
-      <webServer id="339fd46b-6bf5-46dd-abe8-b2ec8c17ee9b" name="flow" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
-        <fileTransfer host="vitaliy.develop.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/flow" accessType="SFTP" keyPair="true" username="vitaliy" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc">
+      <webServer id="339fd46b-6bf5-46dd-abe8-b2ec8c17ee9b" name="flow" url="http://vitaliy.cliodev.dk/">
+        <fileTransfer host="10.100.11.90" port="22" privateKey="$USER_HOME$/.ssh/clio" rootFolder="/var/www/vitaliy/hostroot/flow" accessType="SFTP" keyPair="true" username="vitaliy" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="2200" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>

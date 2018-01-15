@@ -20,8 +20,9 @@
       <mask>*.hbs</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
