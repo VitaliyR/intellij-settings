@@ -1,12 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e53463da-b658-4357-aa5f-4cfb54cb419c" name="clioui" url="http://vitaliy.cliotest02.clioonline.dk/clioui">
-        <fileTransfer host="vitaliy.develop.clioonline.dk" port="2200" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/vitaliy/hostroot/clioui" accessType="SFTP" keyPair="true" username="vitaliy" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc">
+      <webServer id="e53463da-b658-4357-aa5f-4cfb54cb419c" name="clioui" url="http://vitaliy.cliodev.dk/clioui">
+        <fileTransfer host="10.100.11.90" port="22" privateKey="$USER_HOME$/.ssh/clio" rootFolder="/var/www/vitaliy/hostroot/clioui" accessType="SFTP" keyPair="true" username="vitaliy" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="2200" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="fa89f53f-c7a5-49aa-b479-4e3874a5b625" name="typo3conf-ext" url="http://vitaliy.cliotest02.clioonline.dk/portals">
