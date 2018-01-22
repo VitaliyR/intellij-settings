@@ -4,15 +4,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>jquery</mask>
       <mask>*.emblem</mask>
       <mask>*.xml</mask>
       <mask>*.css</mask>
       <mask>*.hbs,*.html</mask>
       <mask>*.html,*.hbs</mask>
       <mask>*.json</mask>
-      <mask>*.hb</mask>
-      <mask>*.hbs</mask>
       <mask>*.ht</mask>
       <mask>php</mask>
       <mask>*V.php</mask>
@@ -31,9 +28,12 @@
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ріи</mask>
+      <mask>*.</mask>
+      <mask>*.hb</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
