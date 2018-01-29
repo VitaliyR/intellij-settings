@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.emblem</mask>
-      <mask>*.xml</mask>
-      <mask>*.css</mask>
-      <mask>*.hbs,*.html</mask>
-      <mask>*.html,*.hbs</mask>
       <mask>*.json</mask>
       <mask>*.ht</mask>
       <mask>php</mask>
@@ -34,6 +29,11 @@
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
       <mask>*.php</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
