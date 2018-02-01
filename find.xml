@@ -21,7 +21,6 @@
       <mask>*ViewHelper.</mask>
       <mask>*ViewHelper.php</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.ріи</mask>
@@ -34,6 +33,7 @@
       <mask>*.scss</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
