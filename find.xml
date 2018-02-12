@@ -14,7 +14,6 @@
       <mask>*.o</mask>
       <mask>*.oho</mask>
       <mask>*.ph</mask>
-      <mask>*.html</mask>
       <mask>*View</mask>
       <mask>*ViewH</mask>
       <mask>*ViewHelper</mask>
@@ -34,6 +33,7 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.js</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
