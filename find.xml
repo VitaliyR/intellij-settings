@@ -3,8 +3,8 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>*.ht</mask>
       <mask>php</mask>
       <mask>*V.php</mask>
       <mask>*Vi.php</mask>
@@ -34,6 +34,7 @@
       <mask>*.yaml</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
