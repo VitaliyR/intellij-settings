@@ -58,7 +58,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="339fd46b-6bf5-46dd-abe8-b2ec8c17ee9b" name="flow" url="http://vitaliy.cliodev.dk/">
-        <fileTransfer host="cliodev.dk" port="22" privateKey="$USER_HOME$/.ssh/clio" rootFolder="/var/www/vitaliy/hostroot/flow" accessType="SFTP" keyPair="true" username="vitaliy" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc">
+        <fileTransfer host="cliodev.dk" port="22" privateKey="$USER_HOME$/.ssh/clio" rootFolder="/var/www/vitaliy/hostroot" accessType="SFTP" keyPair="true" username="vitaliy" passphrase="dfebdfd9dfcbdfc7df98dfccdfc5dfdc">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
