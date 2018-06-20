@@ -3,37 +3,18 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <recentFileMasks>
-      <mask>*V.php</mask>
-      <mask>*Vi.php</mask>
-      <mask>*View.php</mask>
-      <mask>*ViewH.php</mask>
-      <mask>*.o</mask>
-      <mask>*.oho</mask>
-      <mask>*.ph</mask>
-      <mask>*View</mask>
-      <mask>*ViewH</mask>
-      <mask>*ViewHelper</mask>
-      <mask>*ViewHelper.</mask>
-      <mask>*ViewHelper.php</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*.ріи</mask>
-      <mask>*.</mask>
-      <mask>*.hb</mask>
-      <mask>*.php</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.yaml</mask>
-      <mask>package.json</mask>
-      <mask>*.json</mask>
-      <mask>*.hbs</mask>
-      <mask>*.js</mask>
-      <mask>*.html</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="package.json" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.json</mask>
+    <mask>package.json</mask>
   </component>
 </application>
