@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="Changed Files" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -15,5 +14,6 @@
     <mask>package.json</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
