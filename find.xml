@@ -13,8 +13,8 @@
     <mask>package.json</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
